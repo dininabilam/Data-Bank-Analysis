@@ -1,5 +1,7 @@
 # Data Bank Analysis
 ## Snippet
+![Dashboard 1](https://github.com/dininabilam/Data-Bank-Analysis/assets/133942159/5a57b10f-9cda-435b-92b8-b3575558b7f9)
+
 ## 📌  Key Findigs
 🙎🏻‍♂️ **Customer Nodes Exploration:** There are 5 unique nodes on the Data Bank system. Each region has 5 nodes. Australia and Europe were allocated the highest and lowest number of customers respectively. Customers are reallocated every fortnight on average.
 
